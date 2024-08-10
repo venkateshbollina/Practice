@@ -11,7 +11,7 @@ public class Main {
         Scanner scan = new Scanner(System.in);
         System.out.println("enter the palandrom input string ");
         String palIn = scan.next();
-        boolean isPal =  Palendrom.isPalUsingSBuffer(palIn);
+        boolean isPal =  Palendrom.isPal(palIn);
         System.out.println("KiK is Palandrom :" + isPal);
     }
 }
