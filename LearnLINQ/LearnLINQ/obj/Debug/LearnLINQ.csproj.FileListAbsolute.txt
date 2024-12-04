@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\LearnLINQ\LearnLINQ\bin\Debug\LearnLINQ.exe.config
+C:\Users\Admin\source\repos\LearnLINQ\LearnLINQ\bin\Debug\LearnLINQ.exe
+C:\Users\Admin\source\repos\LearnLINQ\LearnLINQ\bin\Debug\LearnLINQ.pdb
+C:\Users\Admin\source\repos\LearnLINQ\LearnLINQ\bin\Debug\TcpData.dll
+C:\Users\Admin\source\repos\LearnLINQ\LearnLINQ\bin\Debug\TcpExtensions.dll
+C:\Users\Admin\source\repos\LearnLINQ\LearnLINQ\bin\Debug\TcpData.pdb
+C:\Users\Admin\source\repos\LearnLINQ\LearnLINQ\bin\Debug\TcpExtensions.pdb
+C:\Users\Admin\source\repos\LearnLINQ\LearnLINQ\obj\Debug\LearnLINQ.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\LearnLINQ\LearnLINQ\obj\Debug\LearnLINQ.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\LearnLINQ\LearnLINQ\obj\Debug\LearnLINQ.csproj.Up2Date
+C:\Users\Admin\source\repos\LearnLINQ\LearnLINQ\obj\Debug\LearnLINQ.exe
+C:\Users\Admin\source\repos\LearnLINQ\LearnLINQ\obj\Debug\LearnLINQ.pdb

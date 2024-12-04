@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\LearnLINQ\TcpExtensions\bin\Debug\TcpExtensions.dll
+C:\Users\Admin\source\repos\LearnLINQ\TcpExtensions\bin\Debug\TcpExtensions.pdb
+C:\Users\Admin\source\repos\LearnLINQ\TcpExtensions\obj\Debug\TcpExtensions.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\LearnLINQ\TcpExtensions\obj\Debug\TcpExtensions.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\LearnLINQ\TcpExtensions\obj\Debug\TcpExtensions.dll
+C:\Users\Admin\source\repos\LearnLINQ\TcpExtensions\obj\Debug\TcpExtensions.pdb

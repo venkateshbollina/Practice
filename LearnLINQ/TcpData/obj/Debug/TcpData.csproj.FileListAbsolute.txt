@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\LearnLINQ\TcpData\bin\Debug\TcpData.dll
+C:\Users\Admin\source\repos\LearnLINQ\TcpData\bin\Debug\TcpData.pdb
+C:\Users\Admin\source\repos\LearnLINQ\TcpData\obj\Debug\TcpData.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\LearnLINQ\TcpData\obj\Debug\TcpData.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\LearnLINQ\TcpData\obj\Debug\TcpData.dll
+C:\Users\Admin\source\repos\LearnLINQ\TcpData\obj\Debug\TcpData.pdb
