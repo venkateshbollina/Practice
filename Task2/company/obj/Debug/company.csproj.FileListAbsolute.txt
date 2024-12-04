@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\Task2\company\obj\Debug\company.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Task2\company\obj\Debug\company.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Task2\company\bin\Debug\company.dll
+C:\Users\Admin\source\repos\Task2\company\bin\Debug\company.pdb
+C:\Users\Admin\source\repos\Task2\company\obj\Debug\company.dll
+C:\Users\Admin\source\repos\Task2\company\obj\Debug\company.pdb
