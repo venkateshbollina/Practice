@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\XmlDemo\XmlDemo\bin\Debug\XmlDemo.exe.config
+C:\Users\Admin\source\repos\XmlDemo\XmlDemo\bin\Debug\XmlDemo.exe
+C:\Users\Admin\source\repos\XmlDemo\XmlDemo\bin\Debug\XmlDemo.pdb
+C:\Users\Admin\source\repos\XmlDemo\XmlDemo\obj\Debug\XmlDemo.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\XmlDemo\XmlDemo\obj\Debug\XmlDemo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\XmlDemo\XmlDemo\obj\Debug\XmlDemo.exe
+C:\Users\Admin\source\repos\XmlDemo\XmlDemo\obj\Debug\XmlDemo.pdb
+C:\Users\Admin\source\repos\XmlDemo\XmlDemo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\XmlDemo\XmlDemo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\source\repos\XmlDemo\XmlDemo\obj\Debug\XmlDemo.csproj.Up2Date

@@ -1,0 +1,184 @@
+[
+  {
+    "BookingClassAvail": {
+      "@ResBookDesigCode": "Y",
+      "@ResBookDesigQuantity": "9",
+      "@RPH": "1"
+    }
+  },
+  {
+    "BookingClassAvail": {
+      "@ResBookDesigCode": "W",
+      "@ResBookDesigQuantity": "9",
+      "@RPH": "1"
+    }
+  },
+  {
+    "BookingClassAvail": {
+      "@ResBookDesigCode": "E",
+      "@ResBookDesigQuantity": "9",
+      "@RPH": "1"
+    }
+  },
+  {
+    "BookingClassAvail": {
+      "@ResBookDesigCode": "R",
+      "@ResBookDesigQuantity": "9",
+      "@RPH": "1"
+    }
+  },
+  {
+    "BookingClassAvail": {
+      "@ResBookDesigCode": "K",
+      "@ResBookDesigQuantity": "9",
+      "@RPH": "1"
+    }
+  },
+  {
+    "BookingClassAvail": {
+      "@ResBookDesigCode": "M",
+      "@ResBookDesigQuantity": "9",
+      "@RPH": "1"
+    }
+  },
+  {
+    "BookingClassAvail": {
+      "@ResBookDesigCode": "B",
+      "@ResBookDesigQuantity": "9",
+      "@RPH": "1"
+    }
+  },
+  {
+    "BookingClassAvail": {
+      "@ResBookDesigCode": "H",
+      "@ResBookDesigQuantity": "9",
+      "@RPH": "1"
+    }
+  },
+  {
+    "BookingClassAvail": {
+      "@ResBookDesigCode": "L",
+      "@ResBookDesigQuantity": "9",
+      "@RPH": "1"
+    }
+  },
+  {
+    "BookingClassAvail": {
+      "@ResBookDesigCode": "T",
+      "@ResBookDesigQuantity": "9",
+      "@RPH": "1"
+    }
+  },
+  {
+    "BookingClassAvail": {
+      "@ResBookDesigCode": "V",
+      "@ResBookDesigQuantity": "9",
+      "@RPH": "1"
+    }
+  },
+  {
+    "BookingClassAvail": {
+      "@ResBookDesigCode": "X",
+      "@ResBookDesigQuantity": "9",
+      "@RPH": "1"
+    }
+  },
+  {
+    "BookingClassAvail": {
+      "@ResBookDesigCode": "S",
+      "@ResBookDesigQuantity": "L",
+      "@RPH": "1"
+    }
+  },
+  {
+    "BookingClassAvail": {
+      "@ResBookDesigCode": "Y",
+      "@ResBookDesigQuantity": "9",
+      "@RPH": "1"
+    }
+  },
+  {
+    "BookingClassAvail": {
+      "@ResBookDesigCode": "W",
+      "@ResBookDesigQuantity": "9",
+      "@RPH": "1"
+    }
+  },
+  {
+    "BookingClassAvail": {
+      "@ResBookDesigCode": "E",
+      "@ResBookDesigQuantity": "9",
+      "@RPH": "1"
+    }
+  },
+  {
+    "BookingClassAvail": {
+      "@ResBookDesigCode": "R",
+      "@ResBookDesigQuantity": "9",
+      "@RPH": "1"
+    }
+  },
+  {
+    "BookingClassAvail": {
+      "@ResBookDesigCode": "K",
+      "@ResBookDesigQuantity": "9",
+      "@RPH": "1"
+    }
+  },
+  {
+    "BookingClassAvail": {
+      "@ResBookDesigCode": "M",
+      "@ResBookDesigQuantity": "9",
+      "@RPH": "1"
+    }
+  },
+  {
+    "BookingClassAvail": {
+      "@ResBookDesigCode": "B",
+      "@ResBookDesigQuantity": "9",
+      "@RPH": "1"
+    }
+  },
+  {
+    "BookingClassAvail": {
+      "@ResBookDesigCode": "H",
+      "@ResBookDesigQuantity": "9",
+      "@RPH": "1"
+    }
+  },
+  {
+    "BookingClassAvail": {
+      "@ResBookDesigCode": "L",
+      "@ResBookDesigQuantity": "9",
+      "@RPH": "1"
+    }
+  },
+  {
+    "BookingClassAvail": {
+      "@ResBookDesigCode": "T",
+      "@ResBookDesigQuantity": "9",
+      "@RPH": "1"
+    }
+  },
+  {
+    "BookingClassAvail": {
+      "@ResBookDesigCode": "V",
+      "@ResBookDesigQuantity": "9",
+      "@RPH": "1"
+    }
+  },
+  {
+    "BookingClassAvail": {
+      "@ResBookDesigCode": "X",
+      "@ResBookDesigQuantity": "9",
+      "@RPH": "1"
+    }
+  },
+  {
+    "BookingClassAvail": {
+      "@ResBookDesigCode": "S",
+      "@ResBookDesigQuantity": "9",
+      "@RPH": "1"
+    }
+  }
+]

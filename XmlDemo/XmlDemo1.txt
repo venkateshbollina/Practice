@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<KIU_AirAvailRS EchoToken="1" TimeStamp="2024-07-10" Target="Testing" Version="3.0" SequenceNmbr="1">
+    <Success/>
+    <OriginDestinationInformation>
+        <DepartureDateTime>2024-07-29T00:00:00</DepartureDateTime>
+        <OriginLocation>DXB</OriginLocation>
+        <DestinationLocation>CMB</DestinationLocation>
+        <OriginDestinationOptions>
+            <OriginDestinationOption>
+                <FlightSegment DepartureDateTime="2024-07-29" ArrivalDateTime="2024-07-30" StopQuantity="0" FlightNumber="822" JourneyDuration="04:40:00">
+                    <DepartureAirport LocationCode="DXB"/>
+                    <ArrivalAirport LocationCode="CMB"/>
+                    <Equipment AirEquipType="320" />
+                    <MarketingAirline CompanyShortName="8D"/>
+                    <Meal MealCode="S"/>
+                    <MarketingCabin CabinType="Economy" RPH="1"/>
+                    <BookingClassAvail ResBookDesigCode="Y" ResBookDesigQuantity="9" RPH="1"/>
+                    <BookingClassAvail ResBookDesigCode="W" ResBookDesigQuantity="9" RPH="1"/>
+                    <BookingClassAvail ResBookDesigCode="E" ResBookDesigQuantity="9" RPH="1"/>
+                    <BookingClassAvail ResBookDesigCode="R" ResBookDesigQuantity="9" RPH="1"/>
+                    <BookingClassAvail ResBookDesigCode="K" ResBookDesigQuantity="9" RPH="1"/>
+                    <BookingClassAvail ResBookDesigCode="M" ResBookDesigQuantity="9" RPH="1"/>
+                    <BookingClassAvail ResBookDesigCode="B" ResBookDesigQuantity="9" RPH="1"/>
+                    <BookingClassAvail ResBookDesigCode="H" ResBookDesigQuantity="9" RPH="1"/>
+                    <BookingClassAvail ResBookDesigCode="L" ResBookDesigQuantity="9" RPH="1"/>
+                    <BookingClassAvail ResBookDesigCode="T" ResBookDesigQuantity="9" RPH="1"/>
+                    <BookingClassAvail ResBookDesigCode="V" ResBookDesigQuantity="9" RPH="1"/>
+                    <BookingClassAvail ResBookDesigCode="X" ResBookDesigQuantity="9" RPH="1"/>
+                    <BookingClassAvail ResBookDesigCode="S" ResBookDesigQuantity="L" RPH="1"/>
+                </FlightSegment>
+            </OriginDestinationOption>
+        </OriginDestinationOptions>
+    </OriginDestinationInformation>
+    <OriginDestinationInformation>
+        <DepartureDateTime>2024-07-30</DepartureDateTime>
+        <OriginLocation>CMB</OriginLocation>
+        <DestinationLocation>DXB</DestinationLocation>
+        <OriginDestinationOptions>
+            <OriginDestinationOption>
+                <FlightSegment DepartureDateTime="2024-07-30" ArrivalDateTime="2024-07-30" StopQuantity="0" FlightNumber="821" JourneyDuration="04:50:00">
+                    <DepartureAirport LocationCode="CMB"/>
+                    <ArrivalAirport LocationCode="DXB"/>
+                    <Equipment AirEquipType="320" />
+                    <MarketingAirline CompanyShortName="8D"/>
+                    <Meal MealCode="S"/>
+                    <MarketingCabin CabinType="Economy" RPH="1"/>
+                    <BookingClassAvail ResBookDesigCode="Y" ResBookDesigQuantity="9" RPH="1"/>
+                    <BookingClassAvail ResBookDesigCode="W" ResBookDesigQuantity="9" RPH="1"/>
+                    <BookingClassAvail ResBookDesigCode="E" ResBookDesigQuantity="9" RPH="1"/>
+                    <BookingClassAvail ResBookDesigCode="R" ResBookDesigQuantity="9" RPH="1"/>
+                    <BookingClassAvail ResBookDesigCode="K" ResBookDesigQuantity="9" RPH="1"/>
+                    <BookingClassAvail ResBookDesigCode="M" ResBookDesigQuantity="9" RPH="1"/>
+                    <BookingClassAvail ResBookDesigCode="B" ResBookDesigQuantity="9" RPH="1"/>
+                    <BookingClassAvail ResBookDesigCode="H" ResBookDesigQuantity="9" RPH="1"/>
+                    <BookingClassAvail ResBookDesigCode="L" ResBookDesigQuantity="9" RPH="1"/>
+                    <BookingClassAvail ResBookDesigCode="T" ResBookDesigQuantity="9" RPH="1"/>
+                    <BookingClassAvail ResBookDesigCode="V" ResBookDesigQuantity="9" RPH="1"/>
+                    <BookingClassAvail ResBookDesigCode="X" ResBookDesigQuantity="9" RPH="1"/>
+                    <BookingClassAvail ResBookDesigCode="S" ResBookDesigQuantity="9" RPH="1"/>
+                </FlightSegment>
+            </OriginDestinationOption>
+        </OriginDestinationOptions>
+    </OriginDestinationInformation>
+</KIU_AirAvailRS>

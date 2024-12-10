@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\XmlTask\XmlTask\bin\Debug\XmlTask.exe.config
+C:\Users\Admin\source\repos\XmlTask\XmlTask\bin\Debug\XmlTask.exe
+C:\Users\Admin\source\repos\XmlTask\XmlTask\bin\Debug\XmlTask.pdb
+C:\Users\Admin\source\repos\XmlTask\XmlTask\obj\Debug\XmlTask.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\XmlTask\XmlTask\obj\Debug\XmlTask.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\XmlTask\XmlTask\obj\Debug\XmlTask.exe
+C:\Users\Admin\source\repos\XmlTask\XmlTask\obj\Debug\XmlTask.pdb
+C:\Users\Admin\source\repos\XmlTask\XmlTask\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\XmlTask\XmlTask\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\source\repos\XmlTask\XmlTask\obj\Debug\XmlTask.csproj.Up2Date
